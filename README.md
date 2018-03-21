@@ -17,6 +17,6 @@
 	![passadis](https://github.com/sudheerachary/fast-panorama-stitching-on-mobile-devices/blob/master/results/passadis-1.jpg)
 
 - ## Reports
-	- the paper is available here `paper.pdf`
-	- the poster is available here `poster.pdf`
+	- the paper is available here [paper](https://github.com/sudheerachary/fast-panorama-stitching-on-mobile-devices/blob/master/paper.pdf)
+	- the poster is available here [poster](https://github.com/sudheerachary/fast-panorama-stitching-on-mobile-devices/blob/master/poster.pdf)
 	- reports of the submission and results & limitations are clearly mentioned in `
